@@ -7,4 +7,4 @@ def alphabet_position(text):
   if i.isalpha():
    print(conv[i], end =' ')
    new_text = conv[i]
- return new_text  
+ return new_text
