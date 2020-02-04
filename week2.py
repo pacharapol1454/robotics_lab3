@@ -14,4 +14,4 @@ if c==0:
  else:
   print("false")
 else:
- print("false has alphabet")
+ print("false")
