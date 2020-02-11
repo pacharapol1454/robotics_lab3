@@ -11,7 +11,7 @@ def validate_pin(psw):
    psw_int = psw_int//10
    digit = digit + 1
   if digit == 4 or digit == 6:
-   c=c+1
+   state=state+1
  if state==1:
      return True
  else:
